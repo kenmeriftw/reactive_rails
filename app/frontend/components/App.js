@@ -2,9 +2,9 @@ import React, { Fragment } from 'react'
 
 const App = () => {
   return (
-    <Fragment>
+    <h1>
       React on Rails
-    </Fragment>
+    </h1>
   )
 }
 
